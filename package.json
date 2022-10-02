@@ -1,0 +1,24 @@
+{
+  "name": "du-mobile",
+  "version": "1.0.0",
+  "description": "Is the string duMobile?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malith-ra/mobile-npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "du",
+    "mobile"
+  ],
+  "author": "Malith Ranasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malith-ra/mobile-npm-package/issues"
+  },
+  "homepage": "https://github.com/Malith-ra/mobile-npm-package#readme"
+}
